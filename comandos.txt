@@ -1,0 +1,102 @@
+  109  git init
+  110  git init checkpoint-RaisaGuzman
+  111  git remote add origin
+  112  git remote add origin https://github.com/Raisaguzman/checkpoint-RaisaGuzman
+  113  cd checkpoint-Raisaguzman
+  114  touch main.js index.html
+  115  git add
+  116  git add .
+  117  commit -m "commit 01 RaisaGuzman"
+  118  git commit -m "commit 01 RaisaGuzman"
+  119  git push orign main
+  120  git status
+  121  git push origin main
+  122  git config
+  123  cd..
+  124  cd ..
+  125  mv checkpoint-RaisaGuzman
+  126  mv checkpoint-Raisaguzman
+  127  git clone https://github.com/Raisaguzman/checkpoint-RaisaGuzman
+  128  cd checkpoint-RaisaGuzman
+  129  ls
+  130  git status
+  131  git pull
+  132  git remote add origin https://github.com/Raisaguzman/checkpoint-RaisaGuzman.git
+  133  git pull
+  134  git pull git remote add origin main
+  135  git pusch origin main
+  136  git push origin main
+  137  git branch feature
+  138  git checkout feature
+  139  mkdir Hardware Software SeguridadInformatica
+  140  cd hardware
+  141  tocuh resumen.txt.
+  142  touch resumen.txt.
+  143  cd ..
+  144  cd software
+  145  touch resumen.txt.
+  146  cd ..
+  147  cd SeguridadInformatica
+  148  touch resumen.txt.
+  149  cd ..
+  150  git add .
+  151  ls
+  152  cd hardware
+  153  ls
+  154  cd ..
+  155  git add
+  156  git add .
+  157  git status
+  158  cd hardware
+  159  git add
+  160  gir add .
+  161  git add .
+  162  git add hardware
+  163  git add resumen.txt.
+  164  cd ..
+  165  git add .
+  166  git add SeguridadInformatica
+  167  git commit -m "commit 02 raisaguzman"
+  168  git add
+  169  git add .
+  170  git push
+  171  git push origin feature
+  172  cd hardware
+  173  ls
+  174  rm resumen.txt.
+  175  ls
+  176  touch resumen.txt
+  177  git add
+  178  git add .
+  179  cd ..
+  180  cd software
+  181  touch resumen.txt
+  182  cd ..
+  183  cd Seguridad Informatica
+  184  cd SeguridadInformatica
+  185  touch resumen.txt
+  186  cd ..
+  187  git add .
+  188  cd SeguridadInformatica
+  189  ls
+  190  rm resumen.txt.
+  191  ls
+  192  cd ..
+  193  cd Software
+  194  ls
+  195  rm resumen.txt.
+  196  ls
+  197  cd ..
+  198  git add .
+  199  git commit -m "commit 03 raisaguzman"
+  200  git status
+  201  git log
+  202  git push origin feature
+  203  git checkout main
+  204  mv main.js resumenHardware.txt
+  205  ls
+  206  mv index.html resumenSoftware.txt
+  207  ls
+  208  cd resumenSoftware
+  209  git add .
+  210  history
